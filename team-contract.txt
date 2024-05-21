@@ -1,0 +1,25 @@
+Goals
+- Team: Complete the project well
+- Individual: Do/score well (everyone)
+- Obstacles: Bugs, design challenges
+- Decision on A grade: talk about it
+- Second decision: talk about it 
+
+Meetings
+- Class time: update on changes, ask TA about bugs or questions, assign responsibilities, work on the code
+- Meetings outside class time: on a need-to-know basis (text, call, Zoom, in-person, etc.)
+- Communication: text, call
+
+Work
+- Time: equivalent to a pset 
+- Division of work: on project handout (2 tasks per person for iteration #1, 4 tasks per person for iteration #0)
+- Recording responsibilities: on project handout, make another txt file
+- Per week: have some task completed by check-in
+- Fall through on commitment: text beforehand for awareness
+- Review: during check-ins, comments on the code
+- Not doing share: tell them, text/talk about how to resolve the issue
+- Different work habits: will not cut too close to the deadline
+
+Decision Making
+- Consensus: don't need 100% consensus but talk about it if it's a big change
+- Fixating: tell them that they're fixating/talk about it, correctness/feasibility is a big factor
