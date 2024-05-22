@@ -1,0 +1,24 @@
+# Typical Sequence Board
+# ["free",        "A_clubs",      "K_clubs",      "Q_clubs",      "10_clubs",     "9_clubs",      "8_clubs",      "7_clubs",      "6_clubs",      "free"],
+# ["A_diamonds",  "7_spades",     "8_spades",     "9_spades",     "10_spades",    "Q_spades",     "K_spades",     "A_spades",     "5_clubs",      "2_spades"],
+# ["K_diamonds",  "6_spades",     "10_clubs",     "9_clubs",      "8_clubs",      "7_clubs",      "6_clubs",      "2_diamonds",   "4_clubs",      "3_spades"],
+# ["Q_diamonds",  "5_spades",     "Q_clubs",      "8_hearts",     "7_hearts",     "6_hearts",     "5_clubs",      "3_diamonds",   "3_clubs",      "4_spades"],
+# ["10_diamonds", "4_spades",     "K_clubs",      "9_hearts",     "2_hearts",     "5_hearts",     "4_clubs",      "4_diamonds",   "2_clubs",      "5_spades"],
+# ["9_diamonds",  "3_spades",     "A_clubs",      "10_hearts",    "3_hearts",     "4_hearts",     "3_clubs",      "5_diamonds",   "A_hearts",     "6_spades"],
+# ["8_diamonds",  "2_spades",     "A_diamonds",   "Q_hearts",     "K_hearts",     "A_hearts",     "2_clubs",      "6_diamonds",   "K_hearts",     "7_spades"],
+# ["7_diamonds",  "2_hearts",     "K_diamonds",   "Q_diamonds",   "10_diamonds",  "9_diamonds",   "8_diamonds",   "7_diamonds",   "Q_hearts",     "8_spades"],
+# ["6_diamonds",  "3_hearts",     "4_hearts",     "5_hearts",     "6_hearts",     "7_hearts",     "8_hearts",     "9_hearts",     "10_hearts",    "9_spades"],
+# ["free",        "5_diamonds",   "4_diamonds",   "3_diamonds",   "2_diamonds",   "A_spades",     "K_spades",     "Q_spades",     "10_spades",    "free"]
+# not sure which board to use yet; considering hardcoding this instead? not sure yet
+10x10
+free, A_clubs, K_clubs, Q_clubs, 10_clubs, 9_clubs, 8_clubs, 7_clubs, 6_clubs, free
+A_diamonds, 7_spades, 8_spades, 9_spades, 10_spades, Q_spades, K_spades, A_spades, 5_clubs, 2_spades
+K_diamonds, 6_spades, 10_clubs, 9_clubs, 8_clubs, 7_clubs, 6_clubs, 2_diamonds, 4_clubs, 3_spades
+Q_diamonds, 5_spades, Q_clubs, 8_hearts, 7_hearts, 6_hearts, 5_clubs, 3_diamonds, 3_clubs, 4_spades
+10_diamonds, 4_spades, K_clubs, 9_hearts, 2_hearts, 5_hearts, 4_clubs, 4_diamonds, 2_clubs, 5_spades
+9_diamonds, 3_spades, A_clubs, 10_hearts, 3_hearts, 4_hearts, 3_clubs, 5_diamonds, A_hearts, 6_spades
+8_diamonds, 2_spades, A_diamonds, Q_hearts, K_hearts, A_hearts, 2_clubs, 6_diamonds, K_hearts, 7_spades
+7_diamonds, 2_hearts, K_diamonds, Q_diamonds, 10_diamonds, 9_diamonds, 8_diamonds, 7_diamonds, Q_hearts, 8_spades
+6_diamonds, 3_hearts, 4_hearts, 5_hearts, 6_hearts, 7_hearts, 8_hearts, 9_hearts, 10_hearts, 9_spades
+free, 5_diamonds, 4_diamonds, 3_diamonds, 2_diamonds, A_spades, K_spades, Q_spades, 10_spades, free
+
